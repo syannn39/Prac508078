@@ -29,4 +29,12 @@ public class Student {
      System.out.println("Hello");
      return;
 }
+    void displayMarks()
+    {
+        system.out.prinltn(RE);
+        system.out.prinltn(SDA);
+        system.out.prinltn(SQAT);
+        system.out.prinltn(SEAM);
+        system.out.prinltn(FM);
+    }    
 }
